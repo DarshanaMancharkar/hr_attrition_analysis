@@ -160,11 +160,11 @@ Open `attrition_analysis.ipynb` and run all cells.
 
 ## 📌 Project Highlights
 
-✔ Cleaned and analyzed HR employee data using Python.
-✔ Wrote **20+ SQL business queries** for employee analysis.
-✔ Created **8 professional visualizations** using Matplotlib.
-✔ Identified key factors influencing employee attrition.
-✔ Generated actionable business insights for improving employee retention.
+- Cleaned and analyzed HR employee data using Python.
+- Wrote **20+ SQL business queries** for employee analysis.
+- Created **8 professional visualizations** using Matplotlib.
+- Identified key factors influencing employee attrition.
+- Generated actionable business insights for improving employee retention.
 
 
 ## 💼 Business Recommendations
